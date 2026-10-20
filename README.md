@@ -2,13 +2,11 @@ I build agentic AI systems for regulated domains and evaluate them the way a mod
 
 ## What I'm working on
 
-<a href="https://github.com/danielberhane/finvet"><img src="finvet-pipeline.png" alt="FinVet pipeline" width="340" align="right"></a>
-
 **[FinVet](https://github.com/danielberhane/finvet)** is an agentic system that checks financial claims against SEC filings, market data and news. Built with LangGraph, it routes each claim to a specialized agent. The model interprets the claim and gathers the evidence; deterministic code compares the figure and decides the verdict; a claim without a source-traced figure is declined rather than guessed.
 
 I evaluated it on 325 held-out claims about 72 US-listed companies, with two models, four runs each, and acceptance criteria defined before testing began. Every published figure is recomputed from the run artifacts on each CI run.
 
-<br clear="right">
+<p align="center"><a href="https://github.com/danielberhane/finvet"><img src="finvet-pipeline.png" alt="FinVet pipeline" width="640"></a></p>
 
 ## Other projects
 
