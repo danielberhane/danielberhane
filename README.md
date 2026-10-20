@@ -17,8 +17,8 @@ I evaluated it on 325 held-out claims about 72 US-listed companies, with two mod
 
 ## Earlier work
 
-**[FinVet v1](https://github.com/danielberhane/finvet-v1)**, IEEE BigData 2025, with Duoduo Liao · [paper](https://ieeexplore.ieee.org/document/11400848)
+**[FinVet v1](https://github.com/danielberhane/finvet-v1)**, IEEE BigData 2025, with Duoduo Liao · [paper](https://ieeexplore.ieee.org/document/11400848) · [Google Scholar](https://scholar.google.com/citations?user=cmeIfQUAAAAJ)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/dberhane) · [Google Scholar](https://scholar.google.com/citations?user=cmeIfQUAAAAJ)
+[LinkedIn](https://www.linkedin.com/in/dberhane)
