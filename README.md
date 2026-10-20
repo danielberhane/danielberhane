@@ -21,4 +21,4 @@ Fine-tuning a small open-weight model to replace the hosted parser in FinVet, as
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · YOUR-EMAIL
+[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · dberhane.araya@gmail.com
