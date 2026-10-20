@@ -21,4 +21,4 @@ I evaluated it on 325 held-out claims about 72 US-listed companies, with two mod
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/dberhane)
+[LinkedIn](https://www.linkedin.com/in/dberhane) · [Google Scholar](https://scholar.google.com/citations?user=cmeIfQUAAAAJ)
